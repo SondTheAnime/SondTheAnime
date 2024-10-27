@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Eu me chamo João Victor e eu sou programador Web e Mobile.</h2>
+<h2 align="center">Olá 👋! Eu me chamo João Victor e eu sou desenvolvedor Web e Mobile.</h2>
 
 ###
 
