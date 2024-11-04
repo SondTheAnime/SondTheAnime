@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6ZDdvNWF5cHFrOGN5ajgyYzVxZDZ6ajV5ZnE1bzg3dTZwcHo1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
-
-###
-
 <div align="left">
   <p>
     <a href="https://skillicons.dev">
@@ -21,6 +17,10 @@
     </a>
   </p>
 </div>
+
+###
+
+<img align="right" height="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXR6ZDdvNWF5cHFrOGN5ajgyYzVxZDZ6ajV5ZnE1bzg3dTZwcHo1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
 
 ###
 
