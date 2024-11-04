@@ -10,13 +10,12 @@
 
 ###
 
-<div align="left">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,lua,django,react,next,nodejs,selenium,linux,git,docker,sqlite,postgres,mysql,firebase,vercel, discord, bots"/>
-    </a>
-  </p>
-</div>
+
+<p>
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,lua,django,react,next,nodejs,selenium,linux,git,docker,sqlite,postgres,mysql,firebase,vercel, discord, bots"/>
+  </a>
+</p>
 
 ###
 
